@@ -40,5 +40,3 @@ class Die:
             self.points = 50
         else:
             self.points = 0
-    
-#        self.points = 50 if self.value == 5 else 100 if self.value == 1 else 0
